@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "stdArid": "2019-arid-2488",
+    "userImg": "./asset/users/user-3.jpg",
+    "messageText":"Hey there, this is my test for a post of my social app in React Native."
+  },
+  {
+    "id": "2",
+    "stdArid": "2019-arid-2488",
+    "userImg": "./asset/users/user-3.jpg",
+    "messageText":"Hey there, this is my test for a post of my social app in React Native."
+  },
+  {
+    "id": "3",
+    "stdArid": "2019-arid-2488",
+    "userImg": "./asset/users/user-3.jpg",
+    "messageText":"Hey there, this is my test for a post of my social app in React Native."
+  },
+  {
+    "id": "4",
+    "stdArid": "2019-arid-2488",
+    "userImg": "./asset/users/user-3.jpg",
+    "messageText":"Hey there, this is my test for a post of my social app in React Native."
+  },
+  {
+    "id": "5",
+    "stdArid": "2019-arid-2488",
+    "userImg": "./asset/users/user-3.jpg",
+    "messageText":"Hey there, this is my test for a post of my social app in React Native."
+  }   
+]
